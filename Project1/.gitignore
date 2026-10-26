@@ -1,0 +1,6 @@
+# Archivos temporales de Visual Studio y .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
